@@ -1,2 +1,2 @@
-# git demo
+# Git-Demo
 Author Akash Patel
