@@ -1,3 +1,3 @@
 # Git-Demo
 
-Author Akash Patel ("Data analyst").
+Author Akash Patel ("Data Analyst").
